@@ -1,0 +1,64 @@
+td:hover 
+{
+   font-weight: 700;
+   font-size: 24px;
+   background: rgb(92, 132, 158);
+}
+td:active
+{   
+ 
+   font-weight: 1000;
+   font-size: 26px;
+    background-color: rgb(100, 150, 160);
+}
+.content
+{
+   margin: 100px 0 0 0;
+}
+.content_1
+{   
+   border-radius: 30px;
+   border: 2px solid;
+   width: 294px;
+   padding: 12px 14px 12px 14px;
+   margin: 0 auto;
+   background-color: #0c111259;
+}
+table, th, td
+{   
+   border: 2px solid;
+}
+th, td
+{
+   width: 50px;
+   height: 40px;
+}
+td
+{
+   
+   vertical-align: middle;
+   background-color: #252e36d4;
+}
+table
+{   
+   border-style: hidden;
+   font-size: 20px;
+   
+   margin: auto;
+   border-collapse:collapse;
+}
+
+th, td 
+{
+   padding: 5px 10px;
+   text-align: center;
+}
+input {
+   width: 256px;
+   font-size: 20px;
+   text-align: right;
+   border: none;
+}
+input:focus {
+   outline: none;
+}
